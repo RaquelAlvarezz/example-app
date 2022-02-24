@@ -20,3 +20,13 @@ Después creamos blade layouts para que la sintaxis requerida para construir las
 Finalmente, convertimos nuestro blog de estático a dinámico creando y conectándolo a una base de datos. Modificamos el archivo .env para conectar la base de datos. Usamos migraciones para editar y organizar la base de datos y empleamos Eloquent para mapear un registro de una tabla de la base de datos a un objeto Eloquent correspondiente.<br>
 
 Todo esto lo he hecho siguiendo el siguiente tutorial: https://laracasts.com/series/laravel-8-from-scratch
+
+## Capturas
+![image](https://user-images.githubusercontent.com/91055857/155486625-b807969e-475a-47d2-9044-cdbf53112559.png)
+![image](https://user-images.githubusercontent.com/91055857/155486690-be48d26e-ef47-400f-b8b8-5314c576c7e3.png)
+![image](https://user-images.githubusercontent.com/91055857/155486759-0be5f703-c71b-42a9-a445-3d0f472e56f8.png)
+![image](https://user-images.githubusercontent.com/91055857/155486808-b4b9648b-30c2-4252-987f-98c600b055f6.png)
+![image](https://user-images.githubusercontent.com/91055857/155486860-ca77b13c-3ddd-4f50-bf66-bd8e95c4a9cd.png)
+![image](https://user-images.githubusercontent.com/91055857/155486918-a1e45644-16bd-415b-aa20-969c50fafd3e.png)
+![image](https://user-images.githubusercontent.com/91055857/155486964-e97f2242-f462-4c06-92d4-70ea9df88745.png)
+![image](https://user-images.githubusercontent.com/91055857/155487036-a18ac4b1-75af-4ad6-bed7-dc8261c56867.png)
